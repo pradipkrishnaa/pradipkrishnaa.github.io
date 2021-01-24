@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="headshot.jpg">
 
 Hi! I am a Master's student in Mechanical Engineering at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering from Purdue (Boiler Up!) with work experience in the automotive, renewable energy, and optics industries in USA, Germany, India, and UAE.
 
