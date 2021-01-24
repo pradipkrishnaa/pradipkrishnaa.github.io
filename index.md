@@ -4,11 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="headshot.jpg">
+<img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am a Master's student in Mechanical Engineering at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering from Purdue (Boiler Up!) with work experience in the automotive, renewable energy, and optics industries in USA, Germany, India, and UAE.
 
 ## Research Interest
 

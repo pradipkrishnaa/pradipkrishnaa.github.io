@@ -3,24 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Work Email: [pmurugan@purdue.edu](mailto:pmurugan@purdue.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Personal Email: [pradipkrishnaa21@gmail.com](mailto:pradipkrishnaa21@gmail.com)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [765 631-8750](tel:765 631-8750)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](http://www.linkedin.com/in/pradipkrishnaa)
+2. [Instagram](http://www.instagram.com/pradipkrishnaa)
