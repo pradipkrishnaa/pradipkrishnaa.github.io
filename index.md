@@ -12,7 +12,7 @@ I am a Master's student in **Mechanical Engineering** at Purdue University. I cu
 
 I have always been passionate about product design and development. I have been fortunate to gain valuable industrial and research experience from Textron, Leibniz University, Audi, and Rane in USA, Germany, UAE, and India. 
 
-**Let's chat! Please reach out to me via email (pmurugan@purdue.edu) or [LinkedIn](https://www.linkedin.com/in/pradipkrishnaa)
+**Let's chat!** Please reach out to me via [Email](mailto:pmurugan@purdue.edu) or [LinkedIn](https://www.linkedin.com/in/pradipkrishnaa)
 
 ## Research Interest
 
@@ -32,22 +32,28 @@ Exchange Student in the Department of Mechanical Engineering
 
 ## Work Experience
 
-Graduate Research Assistant at Purdue University  
-June 2020 - Present
+**Graduate Research Assistant** at Purdue University  
+*June 2020 - Present*
 
-Research Assistant at Leibniz University Hannover  
-April 2019 - August 2019
+**Research Assistant** at Leibniz University Hannover  
+*April 2019 - August 2019*
 
-Product Development Intern at Textron  
-January 2019 - March 2019
+**Product Development** Intern at Textron  
+*January 2019 - March 2019*
 
-Manufacturing Intern at Rane Automobiles   
-June 2018 - August 2018
+**Manufacturing Intern** at Rane Automobiles   
+*June 2018 - August 2018*
 
-Aftersales Intern at Audi AG  
-June 2017 - August 2017
+**Aftersales Intern** at Audi AG  
+*June 2017 - August 2017*
 
 ## Projects
 
 Autonomous Lane Following Robot  
-2019
+*2019*
+
+## References
+
+1. Dr. Jun Chen - Purdue University <junchen@purdue.edu>
+2. Dr. Greg Jensen - Purdue University <jensen23@purdue.edu>
+3. Joe Tort - Purdue University <jtort@purdue.edu>
