@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="headshot.jpg">
 
-Hi! My name is Pradip Krishnaa Murugan. I was born in India, raised in UAE, and educated in USA and Germany. I love experiencing new cultures and traveling so much that learning languages is one of my biggest passions. I am fluent in English, Tamil, and Kannada with moderate-to-begineer knowledge in German, French, and Arabic.  
+Hi! My name is Pradip Krishnaa Murugan. I was born in India, raised in UAE, and educated in USA and Germany. I love experiencing new cultures and traveling so much that learning languages is one of my biggest passions.  
+I am fluent in English, Tamil, and Kannada with moderate-to-begineer knowledge in German, French, and Arabic.  
 
 I am a Master's student in **Mechanical Engineering** at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering and minors in Business Economics and Global Engineering Studies from Purdue. Needless to say, I'm a Boilermaker through and through! 
 
