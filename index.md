@@ -6,38 +6,48 @@ layout: default
 
 <img class="profile-picture" src="headshot.jpg">
 
-Hi! I am a Master's student in Mechanical Engineering at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering from Purdue (Boiler Up!) with work experience in the automotive, renewable energy, and optics industries in USA, Germany, India, and UAE.
+Hi! My name is Pradip Krishnaa Murugan. I was born in India, raised in UAE, and educated in USA and Germany. I love experiencing new cultures and traveling so much that learning languages is one of my biggest passions. I am fluent in English, Tamil, and Kannada with moderate-to-begineer knowledge in German, French, and Arabic.  
+
+I am a Master's student in **Mechanical Engineering** at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering and minors in Business Economics and Global Engineering Studies from Purdue. Needless to say, I'm a Boilermaker through and through! 
+
+I have always been passionate about product design and development. I have been fortunate to gain valuable industrial and research experience from Textron, Leibniz University, Audi, and Rane in USA, Germany, UAE, and India. 
+
+**Let's chat! Please reach out to me via email (pmurugan@purdue.edu) or [LinkedIn](https://www.linkedin.com/in/pradipkrishnaa)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I currently work on mechanical product design and development of a modular river current energy converter to harness power from low velocity river flow in local rivers. I innovate, test, and implement novel designs to meet and surpass industry standards in efficiency, structural integrity, and mechanical performance. My work is mainly performed using Siemens NX, SolidWorks, NX Nastran, and MATLAB. 
 
-## Publications
+## Education
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Purdue University  
+Master of Science in Mechanical Engineering
 
-## Typography
+Purdue University  
+Bachelor of Science in Mechanical Engineering
+Minors: Business Economics, Global Engineering Studies
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Leibniz University Hannover  
+Exchange Student in the Department of Mechanical Engineering
 
-Here is a table
+## Work Experience
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Graduate Research Assistant at Purdue University  
+June 2020 - Present
 
-Here is a horizontal rule
+Research Assistant at Leibniz University Hannover  
+April 2019 - August 2019
 
----
+Product Development Intern at Textron  
+January 2019 - March 2019
 
-Here is a blockquote
+Manufacturing Intern at Rane Automobiles   
+June 2018 - August 2018
 
-> To a great mind, nothing is little
+Aftersales Intern at Audi AG  
+June 2017 - August 2017
 
-## References
+## Projects
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Autonomous Lane Following Robot  
+2019
