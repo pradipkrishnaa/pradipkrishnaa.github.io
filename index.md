@@ -18,38 +18,3 @@ I have always been passionate about product design and development. I have been 
 ## Research Interest
 
 I currently work on mechanical product design and development of a modular river current energy converter to harness power from low velocity river flow in local rivers. I innovate, test, and implement novel designs to meet and surpass industry standards in efficiency, structural integrity, and mechanical performance. My work is mainly performed using Siemens NX, SolidWorks, NX Nastran, and MATLAB. 
-
-## Education
-
-Purdue University  
-Master of Science in Mechanical Engineering
-
-Purdue University  
-Bachelor of Science in Mechanical Engineering
-Minors: Business Economics, Global Engineering Studies
-
-Leibniz University Hannover  
-Exchange Student in the Department of Mechanical Engineering
-
-## Work Experience
-
-**Graduate Research Assistant** at Purdue University  
-*June 2020 - Present*
-
-**Research Assistant** at Leibniz University Hannover  
-*April 2019 - August 2019*
-
-**Product Development** Intern at Textron  
-*January 2019 - March 2019*
-
-**Manufacturing Intern** at Rane Automobiles   
-*June 2018 - August 2018*
-
-**Aftersales Intern** at Audi AG  
-*June 2017 - August 2017*
-
-## Projects
-
-Autonomous Lane Following Robot  
-*2019*
-    
