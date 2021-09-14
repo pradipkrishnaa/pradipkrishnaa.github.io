@@ -52,11 +52,4 @@ Exchange Student in the Department of Mechanical Engineering
 
 Autonomous Lane Following Robot  
 *2019*
-
-## References
-
-1. Dr. Jun Chen - Purdue University <junchen@purdue.edu>
-2. Dr. Greg Jensen - Purdue University <jensen23@purdue.edu>
-3. Joe Tort - Purdue University <jtort@purdue.edu>
-  
     
