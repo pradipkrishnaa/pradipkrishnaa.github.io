@@ -6,15 +6,26 @@ layout: default
 
 <img class="profile-picture" src="headshot.jpg">
 
-Hi! My name is Pradip Krishnaa Murugan. I was born in India, raised in UAE, and educated in USA and Germany. I love experiencing new cultures and traveling so much that learning languages is one of my biggest passions.  
-I am fluent in English, Tamil, and Kannada with moderate-to-begineer knowledge in German, French, and Arabic.  
+Hi! I'm Pradip Murugan and I am a Master's student in **Mechanical Engineering** at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering and minors in Business Economics and Global Engineering Studies from Purdue.
 
-I am a Master's student in **Mechanical Engineering** at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering and minors in Business Economics and Global Engineering Studies from Purdue. Needless to say, I'm a Boilermaker through and through! 
+I have always been passionate about product design and development. I have been fortunate to gain valuable industrial and research experience from Cummins, Textron, Leibniz University, Audi, and Rane in USA, Germany, UAE, and India. 
 
-I have always been passionate about product design and development. I have been fortunate to gain valuable industrial and research experience from Textron, Leibniz University, Audi, and Rane in USA, Germany, UAE, and India. 
+**Let's chat!** You can reach me at my emails or on LinkedIn through the contact section below! 
 
-**Let's chat!** Please reach out to me via [Email](mailto:pmurugan@purdue.edu) or [LinkedIn](https://www.linkedin.com/in/pradipkrishnaa)
-
-## Research Interest
+## Work and Research Interest
 
 I currently work on mechanical product design and development of a modular river current energy converter to harness power from low velocity river flow in local rivers. I innovate, test, and implement novel designs to meet and surpass industry standards in efficiency, structural integrity, and mechanical performance. My work is mainly performed using Siemens NX, SolidWorks, NX Nastran, and MATLAB. 
+
+## Contact Me
+
+* Work Email: [pmurugan@purdue.edu](mailto:pmurugan@purdue.edu)
+
+* Personal Email: [pradipkrishnaa21@gmail.com](mailto:pradipkrishnaa21@gmail.com)
+
+---
+
+# Social
+
+1. [LinkedIn](http://www.linkedin.com/in/pradipkrishnaa)
+2. [Instagram](http://www.instagram.com/pradipkrishnaa)
+
