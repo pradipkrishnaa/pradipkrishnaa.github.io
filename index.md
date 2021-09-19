@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="headshot2.jpeg">
+<img class="profile-picture" src="headshot2.jpg">
 
 Hi! I'm Pradip Murugan and I am a Master's student in **Mechanical Engineering** at Purdue University. I currently do research at the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering and minors in Business Economics and Global Engineering Studies from Purdue.
 
