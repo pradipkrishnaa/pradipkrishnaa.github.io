@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "/pradipkrishnaa.github.io/"
  - name: "Work"
-   link: "work.md"
+   link: "work"
  - name: "Resume"
    link: "resume.pdf"
