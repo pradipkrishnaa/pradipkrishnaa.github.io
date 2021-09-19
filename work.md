@@ -4,7 +4,8 @@ layout: default
 
 # Industry
 
-Cummins 
-![engine](headshot.jpg)
+## Cummins - Product Engineer Co-op
+![Cummins QSK95](cummins_qsk95.jpg)
+
 
 # Research
