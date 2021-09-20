@@ -22,7 +22,7 @@ I currently work on mechanical product design and development of a modular river
 
 * Personal Email: [pradipkrishnaa21@gmail.com](mailto:pradipkrishnaa21@gmail.com)
 
-# Social
+## Social
 
 1. [LinkedIn](http://www.linkedin.com/in/pradipkrishnaa)
 2. [Instagram](http://www.instagram.com/pradipkrishnaa)
