@@ -2,10 +2,13 @@
 layout: default
 ---
 
-# Industry
-
-## Cummins - Product Engineer Co-op
+## [Cummins - Product Engineer Co-op](cummins.md)
 ![Cummins QSK95](cummins_qsk95.jpg)
 
+## Purdue University - Graduate Research Assistant
 
-# Research
+## Leibniz University - Research Assistant 
+
+## Textron - Product Development Intern
+
+## Other Project Work
