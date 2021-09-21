@@ -9,7 +9,10 @@ layout: default
 ![Hydroturbine](/images/Master_Assembly.jpg)
 
 ## [Leibniz University - Research Assistant](luh.md)
+![Interferometer](/images/LUH_Setup.jpg)
 
 ## [Textron - Product Development Intern](textron.md)
+![Kautex Textron](kautex.jpg)
 
 ## [Other Project Work](other_work.md)
+![Motor](/images/Motor.jpg)
