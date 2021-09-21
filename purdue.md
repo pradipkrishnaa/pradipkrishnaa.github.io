@@ -51,3 +51,5 @@ Through literature review, I became familiar with the design practices common in
 ![Shaft FEA](/images/Shaft_FEA.png)
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;

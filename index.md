@@ -5,8 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="headshot2.jpg">
-G
-Hi! I'm Pradip Murugan and I am a Master's student in **Mechanical Engineering** at Purdue University. I'm a Product Engineer Co-op at Cummins and a Graduate Research Assistant the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering and minors in Business Economics and Global Engineering Studies from Purdue.
+<div style="text-align: justify"> Hi! I'm Pradip Murugan and I am a Master's student in **Mechanical Engineering** at Purdue University. I'm a Product Engineer Co-op at Cummins and a Graduate Research Assistant the Fluid Dynamics Lab on a renewable energy system as a product development engineer. I have a Bachelor's degree in Mechanical Engineering and minors in Business Economics and Global Engineering Studies from Purdue. </div>
 
 I have always been passionate about product design, development, and analysis. I have been fortunate to gain valuable industrial and research experience from Cummins, Textron, Leibniz University, Audi, and Rane in USA, Germany, UAE, and India. 
 
@@ -26,5 +25,7 @@ At Cummins, I work in the product validation space with a focus on MATLAB-based 
 
 1. [LinkedIn](http://www.linkedin.com/in/pradipkrishnaa)
 2. [Instagram](http://www.instagram.com/pradipkrishnaa)
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
