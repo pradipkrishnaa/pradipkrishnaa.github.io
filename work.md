@@ -15,4 +15,3 @@ layout: default
 ![Kautex Textron](kautex.jpg)
 
 ## [Other Project Work](other_work.md)
-![Motor](/images/Motor.jpg)
