@@ -7,7 +7,7 @@ layout: default
 ### Introduction
 <div style="text-align: justify">High precision optics with low dimensional tolerances help to achieve technological advancements in numerous fields. Earlier methods of measurement for optical components were largely contact-based and prone to surface contamination i.e. tactile measurement with styli led to surface micro-scratches. The measurement of transparent optical surfaces is a challenge for optical measuring systems as they can only detect small optical signals. This results in the demand for a highly sensitive non-contact optical measuring system for optical components.</div>
 
-<img src="LUH_XRay1.png" alt="drawing" height="20"/>
+<img src="/images/LUH_XRay1.png" alt="drawing" height="20"/>
 
 ### Challenge
 <div style="text-align: justify">The research task required the need for instant modification in setup, modularity in component utility, and flexibility in test parts. Additionally, there was an emphasis for the designed system to be a low-cost alternative to pre-built interferometers on the market for research use in labs and start-ups.</div>
