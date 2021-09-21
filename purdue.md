@@ -49,3 +49,5 @@ Through literature review, I became familiar with the design practices common in
 ![Airfoil FEA](/images/Airfoil_FEA.png)
 ![Frame FEA](/images/Frame_FEA.png)
 ![Shaft FEA](/images/Shaft_FEA.png)
+&nbsp;
+&nbsp;
