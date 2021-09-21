@@ -8,7 +8,7 @@ layout: default
 ## [Purdue University - Graduate Research Assistant](purdue.md)
 ![Hydroturbine](/images/Master_Assembly.jpg)
 
-## [Leibniz University - Research Assistant](luh.md)
+## [Leibniz University - Research Assistant](leibniz.md)
 ![Interferometer](/images/LUH_Setup.jpg)
 
 ## [Textron - Product Development Intern](textron.md)
