@@ -12,6 +12,7 @@ layout: default
 ![Interferometer](/images/LUH_Setup.jpg)
 
 ## [Other Project Work](other_work.md)
+![Car](/images/Car_Surface_Model.png)
 &nbsp;
 &nbsp;
 &nbsp;
