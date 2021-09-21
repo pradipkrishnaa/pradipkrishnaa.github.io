@@ -24,12 +24,12 @@ I joined the research team as a Research Fellow responsible for the overall desi
 
 Through literature review, I became familiar with the design practices common in underwater applications for sealing, non-corrosive material selection, tolerances, and computational fluid dynamics. I designed and assembled a 500+ part system in SolidWorks which served as the foundation for our iterative design cycle to perform FEA and CFD simulations, improve theoretical performance, and reduce cost. Several motion studies to observe the effects of gravity on individual components and part interference during operation were prepared using the SolidWorks Simulation package. Upon revisiting our CAD and simulation needs, the team decided to transition to the Siemens environment to take advantage of the NX package linked to their PLM software (Siemens Teamcenter). I completed 40+ hours of Siemens NX training to lead the transfer of our CAD documents between these packages while ensuring their compatibility.
 
-![Pump Hardware](/images/Pump.jpg)
+![Pump Hardware](/images/Pump_2.jpg)
 ![Hub](/images/6S_Hub.jpg)
+![Spoke](/images/Exploded_Spoke.jpg)
 
 ### Design & Testing
-- Custom tapered multi-profile NACA hydrofoil designed with iterative
-results from CFD and FEA results to improve flow of medium and reduce drag by 15%
+- Custom tapered multi-profile NACA hydrofoil designed with iterative results from CFD and FEA results to improve flow of medium and reduce drag by 15%
 
 - 16 ft x 7 ft x 7 ft hollow frame using *Weldments* and custom bead patterns to support the turbine & generator system with a maximum load of 38,000N or 8,400lbs.
   * Maximum Displacement = 4.8 mm or 0.188 in
@@ -43,8 +43,9 @@ results from CFD and FEA results to improve flow of medium and reduce drag by 15
 
 - Replacements of multiple key stainless steel components with carbon fiber composites to reduce weight by 40% and improve critical weight-to-stiffness ratio
 
+- Multibody FEA to reduce bending of central torque transmission shaft 
+
 ![Turbine FEA](/images/Turbine_Assy_FEA.png)
-![Airfoil Loads](/images/Airfoil_loads.png)
 ![Airfoil FEA](/images/Airfoil_FEA.png)
 ![Frame FEA](/images/Frame_FEA.png)
 ![Shaft FEA](/images/Shaft_FEA.png)
