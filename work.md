@@ -11,7 +11,4 @@ layout: default
 ## [Leibniz University - Research Assistant](leibniz.md)
 ![Interferometer](/images/LUH_Setup.jpg)
 
-## [Textron - Product Development Intern](textron.md)
-![Kautex Textron](kautex.jpg)
-
 ## [Other Project Work](other_work.md)
