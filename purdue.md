@@ -24,6 +24,7 @@ layout: default
 
 <div style="text-align: justify">Through literature review, I became familiar with the design practices common in underwater applications for sealing, non-corrosive material selection, tolerances, and computational fluid dynamics. I designed and assembled a 500+ part system in SolidWorks which served as the foundation for our iterative design cycle to perform FEA and CFD simulations, improve theoretical performance, and reduce cost. Several motion studies to observe the effects of gravity on individual components and part interference during operation were prepared using the SolidWorks Simulation package. Upon revisiting our CAD and simulation needs, the team decided to transition to the Siemens environment to take advantage of the NX package linked to their PLM software (Siemens Teamcenter). I completed 40+ hours of Siemens NX training to lead the transfer of our CAD documents between these packages while ensuring their compatibility.</div>
 
+![Turbine Assy](/images/Turbine_System.jpg)
 ![Pump Hardware](/images/Pump_2.jpg)
 ![Hub](/images/6S_Hub.jpg)
 ![Spoke](/images/Exploded_Spoke.jpg)

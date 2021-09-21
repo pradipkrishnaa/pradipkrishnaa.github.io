@@ -2,8 +2,20 @@
 layout: default
 ---
 
-# Notable CAD Designs for Projects
+# Notable Design & Analysis Work for Projects
 ## Purdue University
+
+### Pump and Transmission Layout - Siemens NX
+![Layout](/images/Pump_2.jpg)
+
+### Spoke Design & Analysis - Siemens NX
+![Empty Spoke](/images/Empty_Spoke_FEA.png)
+
+### Rail Attachment Design & Analysis - Siemens NX
+![End Rail](/images/End_Rail_FEA.png)
+
+### Hydrofoil Design & Analysis - Siemens NX
+![Hydrfoil](/images/Hydrofoil_Meshing.png)
 
 ### Motor - Siemens NX
 ![Motor](/images/Motor.jpg)
@@ -16,9 +28,6 @@ layout: default
 
 ### Wind Turbine - Siemens NX
 ![Blade](/images/Turbine_Blade.png)
-
-### Pump and Transmission Layout - Siemens NX
-![Layout](/images/Pump_2.jpg)
 &nbsp;
 &nbsp;
 &nbsp;
