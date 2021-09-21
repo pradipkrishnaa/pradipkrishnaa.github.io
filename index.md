@@ -13,7 +13,9 @@ layout: default
 
 ## Work and Research Interest
 
-<div style="text-align: justify">At Cummins, I work in the product validation space with a focus on MATLAB-based damage simulation analysis and validation in exhaust manifolds and power cylinder assemblies. At Purdue, I work on mechanical product design and development of a modular river current energy converter to harness power from low velocity river flow in local rivers. I innovate, test, and implement novel designs to meet and surpass industry standards in efficiency, structural integrity, and mechanical performance. My work is mainly performed using Siemens NX, SolidWorks, NX Nastran, and MATLAB. </div>
+<p><div style="text-align: justify">At <b>Cummins</b>, I work in the product validation space with a focus on MATLAB-based damage simulation analysis and validation in exhaust manifolds and power cylinder assemblies. </div></p>
+
+<div style="text-align: justify">At <b>Purdue</b>, I work on mechanical product design and development of a modular river current energy converter to harness power from low velocity river flow in local rivers. I innovate, test, and implement novel designs to meet and surpass industry standards in efficiency, structural integrity, and mechanical performance. My work is mainly performed using Siemens NX, SolidWorks, NX Nastran, and MATLAB. </div>
 
 ## Contact Me
 
