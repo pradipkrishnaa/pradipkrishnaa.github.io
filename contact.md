@@ -4,11 +4,7 @@ is_contact: true
 ---
 
 * Work Email: [pmurugan@purdue.edu](mailto:pmurugan@purdue.edu)
-
-* Personal Email: [pradipkrishnaa21@gmail.com](mailto:pradipkrishnaa21@gmail.com)
-
-* Phone: [765 631-8750](tel:765 631-8750)
-
+* 
 ---
 
 ## Social
