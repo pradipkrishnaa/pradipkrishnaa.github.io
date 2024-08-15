@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Work Email: [pmurugan@purdue.edu](mailto:pmurugan@purdue.edu)
-* 
+
 ---
 
 ## Social
